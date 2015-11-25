@@ -22,4 +22,4 @@ available commands :
 - plugwise request init
 - plugwise request info update
 - plugwise request power update
-- plugwise set device <mac> on | off
+- plugwise set device XXXXXXXXXXXXX (<-mac) on | off
