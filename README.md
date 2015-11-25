@@ -11,15 +11,15 @@ connect using telnet 127.0.0.1 8080
 
 available commands :
 
-- get device list
-- get device count
-- get device power
-- get message list
-- get message count
-- get order list
-- get order count
-- request discovery
-- request init
-- request info update
-- request power update
-- set device <mac> on | off
+- plugwise get device list
+- plugwise get device count
+- plugwise get device power
+- plugwise get message list
+- plugwise get message count
+- plugwise get order list
+- plugwise get order count
+- plugwise request discovery
+- plugwise request init
+- plugwise request info update
+- plugwise request power update
+- plugwise set device <mac> on | off
